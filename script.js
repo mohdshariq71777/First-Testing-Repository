@@ -25,3 +25,4 @@ if (module.hot) {
 }
 console.log(state.cart.find(el => el.quantity >= 2))
 console.log('modified')
+console.log('Welcome to the application')
